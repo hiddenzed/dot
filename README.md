@@ -23,3 +23,4 @@ nitrogen
 htop
 mpv
 screenshot
+scp
