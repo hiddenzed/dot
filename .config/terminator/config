@@ -1,0 +1,27 @@
+[global_config]
+  dbus = False
+  tab_position = bottom
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#2f343f"
+    background_darkness = 0.24
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    cursor_shape = underline
+    font = monofur for Powerline 14
+    foreground_color = "#ffffff"
+    icon_bell = False
+    scrollback_lines = 1000
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False
